@@ -4,18 +4,26 @@ This repo is designed to be an interactive programming tool that sits on your de
 # Hard @pps is the future bridge of interacting with traditional computers and wearable AR/VR devices
 Training steps for ML: in session///post session///test results/// ScrapeSave Training Results /// Questioneers filled out automatically and only sometimes manually at any step
 
-# All levels welcome, 9 Repos are in Phase 1 of Hard @pps 
-# Each with a new type of automation environment software feature integration and customization beyond the scope of this Repo.
 Steps - 
+
 1 Auto Hot Keys
+
 2 Sikilux
+
 3 .yaml, Conda, Docker, Kubernettes, Pythonm, NodeDB, JavaScript, Webapps, Site Host Services, VPN 's with ability to rotate every step of an automated task
+
 4 Link Building + SEO Marketing Tools, Future Trends, word2image, 
+
 5 Content Generation, Social Network Sharing, Copywriting, Service Schedulers, 
+
 6 CheckPoints of Approval + SingleCommunicationPoint. 
+
 7 applying info obtained and learned thus far - implment ml models in various focus in reproducable vENV with UI task completation focus + organize dashboard data for day tomorrow 
+
 8 re-testing origional hurdles in automating creation of all steps up to hear in another automation API/Language/Market/Software
+
 9 have a next step game shark like avatar guide 3d media agency content created to generate even more layers and options 
+
 10 cretique and revamp delivery of approval items and generate timeline reports for these segments all forms filled automaticly from keyword+analytically generated task lists 
 
 
