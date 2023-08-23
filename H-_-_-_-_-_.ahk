@@ -16,7 +16,7 @@ Send !{Enter}
 Sleep, 6000
 
 
-MouseMove, 130,398
+MouseMove 130,398
 Sleep, 200
 Click 130,398, "L D"
 Sleep, 500
