@@ -1,13 +1,11 @@
-# Ha_-_-_-_
-Step 2: Automating with Sikulix.jar + Screen Saver Project
-
+# Ha_-_-_-_ Step 2: Automating with Sikulix.jar + Screen Saver Project
 This repo is designed to be an interactive programming tool that sits on your desktop waiting to repeate what its observed faster to allow you to intelligently enjoy certian automation hurdles. 
 
 # Hard @pps is the future bridge of interacting with traditional computers and wearable AR/VR devices
 Training steps for ML: in session///post session///test results/// ScrapeSave Training Results /// Questioneers filled out automatically and only sometimes manually at any step
 
-All levels welcome, 9 Repos are in Phase 1 of Hard @pps 
-Each with a new type of automation environment software feature integration and customization beyond the scope of this Repo.
+# All levels welcome, 9 Repos are in Phase 1 of Hard @pps 
+# Each with a new type of automation environment software feature integration and customization beyond the scope of this Repo.
 Steps - 
 1 Auto Hot Keys
 2 Sikilux
@@ -20,11 +18,8 @@ Steps -
 9 have a next step game shark like avatar guide 3d media agency content created to generate even more layers and options 
 10 cretique and revamp delivery of approval items and generate timeline reports for these segments all forms filled automaticly from keyword+analytically generated task lists 
 
-# stuck on the keyboard? **** Design around the "idleAUTO" mindset: Obtaining through Enriching - A measurment of actionable diffrence the software has helped to create in your life from applied machine learning and automation macro link forests.
 
-
-Follow steps below to begin continue setting up:
-
+# Follow steps below to begin continue setting up:
 
 1: Open cmd and download this git repo from copying url in address bar or green button above 
 
@@ -45,8 +40,6 @@ Follow steps below to begin continue setting up:
               the other .exe file with keyboard shortcuts launching on Power Up w/keyboard shortcuts to launch services locally, check pipeline health, retrieve reports from last login, 
               make sure scheduler for vm's is filled with content and everythings connected.
                                              
-    *** IDEA *** click route mappings based on job resource /// +++ availability mappings.
-
              BUILD YOUR Automated Virtual KVM - KVM SWITCH THAT RIVALS DOING IT YOURSELF 
              PLUS WITH THIS TPYE OF AUTOMATI0N WE CAN ENJOY WATCHING THE COMPUTER DO IT INBETWEEN ACTIONS
              AUTOMATED SOUND BOARD RESPONDER THAT TAKES CRONTROL OF KEYBOARD AND MOUNSE (WITH IMAGE/TEXT RECOGNITION) SOFTWARE /// SET TIMERS /// AUDIO TRIGGERS /// INTERACTIVE CUSTOM TRAINING /// IMAGE REC COMPLETION CHECKPOINT SHEETS (LIKE SPRITE SHEETS TAKEN FROM JUMPING AHEAD THE USER MANUAL DURRING A TEST)
