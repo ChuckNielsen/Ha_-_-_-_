@@ -43,6 +43,11 @@ Steps -
                Keyboard combo shortcuts: C+D auto types a website in a new browser window that just opened /// type a sentence /// open a file with CMD and run a .py script // launch 
                react-app from IDE or VM // Timers to play chime/alarm after delays or data capture compretions (retrival, trade, processing moments to make your screen less idally                       restrictive).
 
+https://github.com/Drugoy/Autohotkey-scripts-.ahk/tree/master
+
+	- configure "Process Assistant" rules: you may tell the script to assist one process with another. Process Assistant is a very powerful feature that has options to adjust how to assist processes: you may use Process Assistant so that running your game.exe will trigger the script gamehotkeys.ahk which will get closed when you close your game.exe. Or not - it's up to you how to configure your Process Assistant rules.
+https://github.com/Drugoy/Autohotkey-scripts-.ahk/blob/master/ScriptManager.ahk/MasterScript.ahk 
+
                Start by creating 2 .apk files: one with keyboard shortcuts for web browsing to open websites, type UN's and Passwords, try to memorize the key steps in building and mainintiaining lists compared to creating environments and software that never sees working light.
                
               the other .exe file with keyboard shortcuts launching on Power Up w/keyboard shortcuts to launch services locally, check pipeline health, retrieve reports from last login, 
