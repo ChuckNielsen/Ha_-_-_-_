@@ -4,8 +4,6 @@ Step 2: Automating with Sikulix.jar + Screen Saver Project
 This repo is designed to be an interactive programming tool that sits on your desktop waiting to repeate what its observed faster to allow you to intelligently enjoy certian automation hurdles. 
 
 # Hard @pps is the future bridge of interacting with traditional computers and wearable AR/VR devices
-# stuck on the keyboard? **** Design around the "idleAUTO" mindset: Obtaining through Enriching - A measurment of actionable diffrence the software has helped to create in your life from applied machine learning and automation macro link forests.
-
 Training steps for ML: in session///post session///test results/// ScrapeSave Training Results /// Questioneers filled out automatically and only sometimes manually at any step
 
 All levels welcome, 9 Repos are in Phase 1 of Hard @pps 
@@ -22,6 +20,7 @@ Steps -
 9 have a next step game shark like avatar guide 3d media agency content created to generate even more layers and options 
 10 cretique and revamp delivery of approval items and generate timeline reports for these segments all forms filled automaticly from keyword+analytically generated task lists 
 
+# stuck on the keyboard? **** Design around the "idleAUTO" mindset: Obtaining through Enriching - A measurment of actionable diffrence the software has helped to create in your life from applied machine learning and automation macro link forests.
 
 
 Follow steps below to begin continue setting up:
@@ -43,10 +42,15 @@ Follow steps below to begin continue setting up:
 
                Start by creating 2 .apk files: one with keyboard shortcuts for web browsing to open websites, type UN's and Passwords, try to memorize the key steps in building and mainintiaining lists compared to creating environments and software that never sees working light.
                
-             : the other .exe file with keyboard shortcuts launching on Power Up w/keyboard shortcuts to launch services locally, check pipeline health, retrieve reports from last login, 
-               make sure scheduler for vm's is filled with content and everythings connected.
+              the other .exe file with keyboard shortcuts launching on Power Up w/keyboard shortcuts to launch services locally, check pipeline health, retrieve reports from last login, 
+              make sure scheduler for vm's is filled with content and everythings connected.
                                              
     *** IDEA *** click route mappings based on job resource /// +++ availability mappings.
+
+             ***BUILD YOUR Automated Virtual KVM**** KVM SWITCH THAT RIVALS DOING IT YOURSELF 
+             PLUS WITH THIS TPYE OF AUTOMATI0N WE CAN ENJOY WATCHING THE COMPUTER DO IT INBETWEEN ACTIONS
+             ***AUTOMATED SOUND BOARD RESPONDER THAT TAKES CRONTROL OF KEYBOARD AND MOUNSE (WITH IMAGE/TEXT RECOGNITION) SOFTWARE /// SET TIMERS /// AUDIO TRIGGERS /// INTERACTIVE CUSTOM TRAINING***ON ANY SOFTWARE WITH IMAGE REC COMPLETION CHECKPOINTS
+
 
 3: Project 1 - Use repo project 1 download as a mp3 template for responding to each sound on a y=10 n=0 noise to emotional intnent juding panel
                Cycle through loops playing audio clip sound boards based on idel timers, response scores and completion of projects in a timely manor 
@@ -70,9 +74,6 @@ Buy me a coffee? -- YouTube -- Easy Button Approved
 
 
  0000 YOU CAN MAKE .APK OPEN ON STARTUP WITH KEYBOARD CLICK AUTORESPONSE "PASTE" - CLICK DESIGNATED BUTTON OR 2 BUTTON COMBO AND ITS LIKE A CLIP BORD WITH UNLIMITED MESSAGING OPTIONS
-
-   ****BUILD YOUR OWN****KVM SWITCH THAT RIVALS DOING IT YOURSELF WATCHING THE COMPUTER DO IT WHILE BEING ABLE TO TAKE CONTROLE WHENEVER YOU WANT
-***AUTOMATED SOUND BOARD RESPONDER THAT TAKES CRONTROL OF KEYBOARD AND MOUNSE (WITH IMAGE/TEXT RECOGNITION) SOFTWARE /// SET TIMERS /// AUDIO TRIGGERS /// INTERACTIVE CUSTOM TRAINING***ON ANY SOFTWARE WITH IMAGE REC COMPLETION CHECKPOINTS
 
 VARIOUS .EXE AUTOMATIONS/// SCRAPERS /// RESPONDERS /// AGGREGATORS /// TRADERS /// V_ENV CLUSTER MAPPING - USE MAPPING TO MAKE AUTOMATIONS OF MOUSE WHEN IT NOTICES YOU ARENT DIGESTING CONTENT (USE WEBCAM TO CAPTURE VIDEO HIGHLIGHTING FACE+HANDS-EYES+VOICE RECOGNITION AND MOUSE CONTROL FROM INTENDED DESTINATION (SKIP TRACE ROUTE MAKE MOUSE CLICK EVENTS MORE EFFICENT AND SCROLLABLE FROM MOUSE WHEEL EVERY 3 MOVES UP NEXT OPTION IN CLICK ROUTE LOCIC AND DROPS THIS BASED ON FACIAL EXPRESSION OR AUGMENTED OVERLAY /// ALL OF THIS DATA IS GOING TO BE 
 
