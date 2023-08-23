@@ -15,7 +15,8 @@ Sleep, 250
 Send !{Enter}
 Sleep, 6000
 
-Move 130,398
+
+Move, 130,398
 Sleep, 200
 Click 130,398, "L D"
 Sleep, 500
